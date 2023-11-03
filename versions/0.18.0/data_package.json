@@ -2,15 +2,35 @@
     "version": "0.18.0",
     "releaseDate": "2023-11-03T00:00:00",
     "description": "make current images to cloud.",
-    "imageItems": [
+    "dataItems": [
         {
-            "id": "img001",
-            "path": "images/animals/image_001.json",
+            "id": "intro_cabinet_comunity_d1",
+            "path": "images/application/intros/intro_cabinet_comunity_d1.json",
             "lastUpdated": "2023-11-03T00:00:00"
         },
         {
-            "id": "img002",
-            "path": "images/sceneries/image_002.json",
+            "id": "intro_cabinet_develop_opportunity",
+            "path": "images/application/intros/intro_cabinet_develop_opportunity.json",
+            "lastUpdated": "2023-11-03T00:00:00"
+        },
+        {
+            "id": "intro_cabinet_object_detail",
+            "path": "images/application/intros/intro_cabinet_object_detail.json",
+            "lastUpdated": "2023-11-03T00:00:00"
+        },
+        {
+            "id": "intro_cabinet_product_detail",
+            "path": "images/application/intros/intro_cabinet_product_detail.json",
+            "lastUpdated": "2023-11-03T00:00:00"
+        },
+        {
+            "id": "intro_cabinet_situation_sale",
+            "path": "images/application/intros/intro_cabinet_situation_sale.json",
+            "lastUpdated": "2023-11-03T00:00:00"
+        },
+        {
+            "id": "intro_cabinet_trend_product",
+            "path": "images/application/intros/intro_cabinet_trend_product.json",
             "lastUpdated": "2023-11-03T00:00:00"
         }
     ]
