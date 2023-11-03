@@ -2,9 +2,9 @@
     "id": "intro_cabinet_develop_opportunity",
     "filename": "intro_cabinet_develop_opportunity",
     "resolutions": {
-        "1x": "images/application/ads/intros/intro_cabinet_develop_opportunity.png",
-        "2x": "images/application/ads/intros/intro_cabinet_develop_opportunity @2x.png",
-        "3x": "images/application/ads/intros/intro_cabinet_develop_opportunity @3x.png"
+        "1x": "images/application/intros/intro_cabinet_develop_opportunity.png",
+        "2x": "images/application/intros/intro_cabinet_develop_opportunity @2x.png",
+        "3x": "images/application/intros/intro_cabinet_develop_opportunity @3x.png"
     },
     "lastUpdated": "2023-11-03T00:00:00"
 }
