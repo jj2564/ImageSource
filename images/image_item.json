@@ -1,0 +1,15 @@
+{
+    "id": "img001",
+    "filename": "image_001",
+    "resolutions": {
+        "pdf": {
+            "path": "images/animals/image_001.pdf"
+        },
+        "1x": {
+            "path": "images/animals/image_001.png"
+        },
+        "2x": null,
+        "3x": null
+    },
+    "lastUpdated": "2023-11-03T00:00:00"
+}

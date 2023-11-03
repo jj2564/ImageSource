@@ -5,14 +5,12 @@
     "imageItems": [
         {
             "id": "img001",
-            "filename": "image_001.jpg",
-            "path": "images/animals/image_001.jpg",
+            "path": "images/animals/image_001.json",
             "lastUpdated": "2023-11-03T00:00:00"
         },
         {
             "id": "img002",
-            "filename": "image_002.jpg",
-            "path": "images/sceneries/image_002.jpg",
+            "path": "images/sceneries/image_002.json",
             "lastUpdated": "2023-11-03T00:00:00"
         }
     ]
