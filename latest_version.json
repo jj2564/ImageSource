@@ -3,5 +3,5 @@
     "description": "make current images to cloud.",
     "releaseDate": "2023-11-03T00:00:00",
     "packagePath": "versions/0.18.0/data_package.json",
-    "downloadURL": "versions/0.18.0.zip"
+    "downloadURL": "versions/0.18.0/0.18.0.zip"
 }
