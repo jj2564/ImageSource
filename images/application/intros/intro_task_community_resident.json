@@ -1,0 +1,7 @@
+{
+    "id": "intro_task_community_resident",
+    "name": "intro_task_community_resident",
+    "path": "images/application/intros/",
+    "resolutions": ["1x", "2x", "3x"],
+    "version": "0.18.0"
+}

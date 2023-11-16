@@ -1,0 +1,7 @@
+{
+    "id": "intro_cabinet_resident_detail",
+    "name": "intro_cabinet_resident_detail",
+    "path": "images/application/intros/",
+    "resolutions": ["1x", "2x", "3x"],
+    "version": "0.18.0"
+}

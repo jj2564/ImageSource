@@ -1,37 +1,35 @@
 {
     "version": "0.18.0",
-    "releaseDate": "2023-11-03T00:00:00",
+    "releaseDate": "2023-11-03T00:00:00+08:00",
     "description": "make current images to cloud.",
     "dataItems": [
         {
-            "id": "intro_cabinet_comunity_d1",
-            "path": "images/application/intros/intro_cabinet_comunity_d1.json",
-            "lastUpdated": "2023-11-03T00:00:00"
-        },
-        {
             "id": "intro_cabinet_develop_opportunity",
-            "path": "images/application/intros/intro_cabinet_develop_opportunity.json",
-            "lastUpdated": "2023-11-03T00:00:00"
+            "path": "images/application/intros/intro_cabinet_develop_opportunity.json"
         },
         {
-            "id": "intro_cabinet_object_detail",
-            "path": "images/application/intros/intro_cabinet_object_detail.json",
-            "lastUpdated": "2023-11-03T00:00:00"
+            "id": "intro_cabinet_resident_detail",
+            "path": "images/application/intros/intro_cabinet_resident_detail.json"
         },
         {
             "id": "intro_cabinet_product_detail",
-            "path": "images/application/intros/intro_cabinet_product_detail.json",
-            "lastUpdated": "2023-11-03T00:00:00"
+            "path": "images/application/intros/intro_cabinet_product_detail.json"
         },
         {
             "id": "intro_cabinet_situation_sale",
-            "path": "images/application/intros/intro_cabinet_situation_sale.json",
-            "lastUpdated": "2023-11-03T00:00:00"
+            "path": "images/application/intros/intro_cabinet_situation_sale.json"
         },
         {
             "id": "intro_cabinet_trend_product",
-            "path": "images/application/intros/intro_cabinet_trend_product.json",
-            "lastUpdated": "2023-11-03T00:00:00"
+            "path": "images/application/intros/intro_cabinet_trend_product.json"
+        },
+        {
+            "id": "intro_task_community_redident",
+            "path": "images/application/intros/intro_task_community_redident.json"
+        },
+        {
+            "id": "intro_task_community_redident_detail",
+            "path": "images/application/intros/intro_task_community_redident_detail.json"
         }
     ]
 }
