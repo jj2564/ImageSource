@@ -1,0 +1,7 @@
+{
+    "id": "intro_connection_potential",
+    "name": "intro_connection_potential",
+    "path": "images/application/intros/",
+    "resolutions": ["1x", "2x", "3x"],
+    "version": "0.18.0"
+}
