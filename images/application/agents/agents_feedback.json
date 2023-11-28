@@ -1,0 +1,7 @@
+{
+    "id": "agents_feedback",
+    "name": "agents_feedback",
+    "path": "images/application/agents/",
+    "resolutions": ["pdf"],
+    "version": "0.18.0"
+}

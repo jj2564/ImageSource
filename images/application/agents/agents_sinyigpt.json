@@ -1,0 +1,7 @@
+{
+    "id": "agents_sinyigpt",
+    "name": "agents_sinyigpt",
+    "path": "images/application/agents/",
+    "resolutions": ["pdf"],
+    "version": "0.18.0"
+}
