@@ -1,0 +1,7 @@
+{
+    "id": "intro_customer_priority_contact",
+    "name": "intro_customer_priority_contact",
+    "path": "images/application/intros/",
+    "resolutions": ["1x", "2x", "3x"],
+    "version": "0.19.0"
+}
