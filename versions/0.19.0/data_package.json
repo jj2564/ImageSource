@@ -1,0 +1,31 @@
+{
+    "version": "0.19.0",
+    "releaseDate": "2023-12-14T00:00:00+08:00",
+    "description": "make current images to cloud.",
+    "dataItems": [
+        {
+            "id": "intro_customer_buyer",
+            "path": "images/application/intros/intro_customer_buyer.json"
+        },
+        {
+            "id": "intro_customer_contract",
+            "path": "images/application/intros/intro_customer_contract.json"
+        },
+        {
+            "id": "intro_customer_in_service",
+            "path": "images/application/intros/intro_customer_in_service.json"
+        },
+        {
+            "id": "intro_customer_normal",
+            "path": "images/application/intros/intro_customer_normal.json"
+        },
+        {
+            "id": "intro_customer_priority_contact",
+            "path": "images/application/intros/intro_customer_priority_contact.json"
+        },
+        {
+            "id": "intro_customer_seller",
+            "path": "images/application/intros/intro_customer_seller.json"
+        }
+    ]
+}
