@@ -26,6 +26,10 @@
         {
             "id": "intro_customer_seller",
             "path": "images/application/intros/intro_customer_seller.json"
+        },
+        {
+            "id": "intro_connection_opportunity",
+            "path": "images/application/intros/intro_connection_opportunity.json"
         }
     ]
 }
