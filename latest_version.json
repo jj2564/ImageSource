@@ -1,8 +1,8 @@
 {
-    "latestVersion": "0.18.0",
+    "latestVersion": "0.20.0",
     "description": "make current images to cloud.",
-    "releaseDate": "2023-11-03T00:00:00+08:00",
-    "versionPath": "versions/0.18.0/",
+    "releaseDate": "2024-01-02T00:00:00+08:00",
+    "versionPath": "versions/0.20.0/",
     "packageName": "data_package.json",
-    "fileName": "0.18.0.zip"
+    "fileName": "0.20.0.zip"
 }
