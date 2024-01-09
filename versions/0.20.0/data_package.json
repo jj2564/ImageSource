@@ -16,6 +16,10 @@
             "path": "images/application/intros/intro_customer_seller.json"
         },
         {
+            "id": "intro_customer_in_service",
+            "path": "images/application/intros/intro_customer_in_service.json"
+        },
+        {
             "id": "customers_potential_opportunity_banner",
             "path": "images/application/customers/customers_potential_opportunity_banner.json"
         },
