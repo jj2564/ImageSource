@@ -1,0 +1,11 @@
+{
+    "version": "0.20.2",
+    "releaseDate": "2024-02-02T00:00:00+08:00",
+    "description": "make current images to cloud.",
+    "dataItems": [
+        {
+            "id": "intro_customer_priority_contact",
+            "path": "images/application/intros/intro_customer_priority_contact.json"
+        }
+    ]
+}
