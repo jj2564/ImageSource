@@ -6,6 +6,18 @@
         {
             "id": "intro_customer_priority_contact",
             "path": "images/application/intros/intro_customer_priority_contact.json"
-        }
+        },
+        {
+            "id": "intro_connection_opportunity",
+            "path": "images/application/intros/intro_connection_opportunity.json"
+        },
+        {
+            "id": "develop_opportunity_banner",
+            "path": "images/application/realties/develop_opportunity_banner.json"
+        },
+        {
+            "id": "agents_sinyigpt",
+            "path": "images/application/agents/agents_sinyigpt.json"
+        },
     ]
 }
