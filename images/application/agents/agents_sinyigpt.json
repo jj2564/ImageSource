@@ -3,5 +3,5 @@
     "name": "agents_sinyigpt",
     "path": "images/application/agents/",
     "resolutions": ["pdf"],
-    "version": "0.18.0"
+    "version": "0.20.2"
 }

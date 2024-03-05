@@ -1,0 +1,8 @@
+{
+    "id": "develop_opportunity_banner",
+    "name": "develop_opportunity_banner",
+    "path": "images/application/realties/",
+    "resolutions": ["1x", "2x", "3x"],
+    "version": "0.20.2"
+}
+
